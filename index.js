@@ -6,7 +6,7 @@ import { userRouter } from "./routes/users.js";
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-const url = `mongodb+srv://prasanna:prasanna98@cluster0.nx947.mongodb.net/myFirstDatabase`;
+const url = `mongodb+srv://prasanna:prasanna98@cluster0.nx947.mongodb.net/bookingtickets`;
 // ||
 // "mongodb://localhost/BookMyShow";
 
